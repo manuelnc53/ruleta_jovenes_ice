@@ -25,36 +25,44 @@ let vm = new Vue({
     return {
       prizes: [
         {
-          text: "Amor",
-          desafio: "Descripción del desafio"
+          text: "Color",
+          desafio: "¿Cuál es el color favorito de Karen?"
         },
         {
-          text: "Confesión",
-          desafio: "Descripción del desafio"
+          text: "3 cosas",
+          desafio: "Nombre 3 cosas que tenga en común con su pareja"
         },
         {
-          text: "Ministerio",
-          desafio: "Descripción del desafio"
+          text: "Comida",
+          desafio: "¿Cuál es la comida preferida de Karen?"
         },
         {
-          text: "Iglesia",
-          desafio: "Descripción del desafio"
+          text: "Sueños",
+          desafio: "¿Qué es lo que siempre Karen ha soñado y que no ha podido hacer?"
         },
         {
-          text: "Amor",
-          desafio: "Descripción del desafio"
+          text: "Música",
+          desafio: "¿Qué tipo de música le gusta a Karen?"
         },
         {
-          text: "Confesión",
-          desafio: "Descripción del desafio"
+          text: "Virtudes",
+          desafio: "Nombre 3 virtudes o caracteristicas positivas de cada uno"
         },
         {
-          text: "Historia",
-          desafio: "Descripción del desafio"
+          text: "Estrés",
+          desafio: "¿Qué es lo que más estresa a Karen?"
         },
         {
-          text: "Iglesia",
-          desafio: "Descripción del desafio"
+          text: "Objetos",
+          desafio: "Nombra 3 objetos que Karen lleva siempre en su cartera"
+        },
+        {
+          text: "Nombre",
+          desafio: "¿Cómo le gustaría a Karen que la hubieran llamado?"
+        },
+        {
+          text: "Pregunta",
+          desafio: "¿Cuál es la pregunta que Karen odia que le hagan?"
         },
       ],
       r: 0,

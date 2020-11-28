@@ -83,7 +83,7 @@
   align-items: center;
 }
 .wheel__wrapper .result__wrapper .result__inner .congratute {
-  flex: 0 0 300px;
+  flex: 0 0 400px;
   font-size: 50px;
   color: white;
   text-align: right;
@@ -91,7 +91,7 @@
   line-height: 1.1;
 }
 .wheel__wrapper .result__wrapper .result__inner .result__text {
-  flex: 0 0 300px;
+  flex: 0 0 400px;
 }
 .wheel__wrapper .result__wrapper .result__inner .result__text .prefix-award {
   color: white;
@@ -102,11 +102,11 @@
   width: fit-content;
   font-size: 32px;
   
-  color: #b24fae;
+  color: white;
   position: relative;
-  letter-spacing: -3px;
+  letter-spacing: -2px;
 }
-.wheel__wrapper .result__wrapper .result__inner .result__text .award::after {
+/**.wheel__wrapper .result__wrapper .result__inner .result__text .award::after {
   content: "";
   position: absolute;
   bottom: 1px;
@@ -114,7 +114,7 @@
   width: 100%;
   height: 4px;
   background-color: #b24fae;
-}
+}**/
 .wheel__wrapper .result__wrapper .result-bg-dec__wrapper {
   position: absolute;
   left: 0;
